@@ -1,0 +1,5 @@
+[debug] > Exec(run --image C:\Users\Andrej\IdeaProjects\untitled\test_image\image_jpg\image8.jpg --output-file C:\Users\Andrej\IdeaProjects\untitled\test_image\result\image1.txt, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed 3 дек. 2023 г., 07:15:53
+[debug] > Exec(idea-shell, None, None)
